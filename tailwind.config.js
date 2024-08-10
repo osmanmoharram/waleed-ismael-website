@@ -12,6 +12,7 @@ export default {
     theme: {
         extend: {
             fontFamily: {
+                kufi: ['Noto Kufi Arabic', 'sans-serif'],
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
             },
         },
